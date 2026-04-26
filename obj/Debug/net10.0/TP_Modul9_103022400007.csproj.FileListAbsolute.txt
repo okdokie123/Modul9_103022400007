@@ -1,0 +1,16 @@
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\bin\Debug\net10.0\TP_Modul9_103022400007.exe
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\bin\Debug\net10.0\TP_Modul9_103022400007.deps.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\bin\Debug\net10.0\TP_Modul9_103022400007.runtimeconfig.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\bin\Debug\net10.0\TP_Modul9_103022400007.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\bin\Debug\net10.0\TP_Modul9_103022400007.pdb
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\obj\Debug\net10.0\TP_Modul9_103022400007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\obj\Debug\net10.0\TP_Modul9_103022400007.AssemblyInfoInputs.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\obj\Debug\net10.0\TP_Modul9_103022400007.AssemblyInfo.cs
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\obj\Debug\net10.0\TP_Modul9_103022400007.csproj.CoreCompileInputs.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\obj\Debug\net10.0\TP_Modul9_103022400007.sourcelink.json
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\obj\Debug\net10.0\TP_Modul9_103022400007.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\obj\Debug\net10.0\refint\TP_Modul9_103022400007.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\obj\Debug\net10.0\TP_Modul9_103022400007.pdb
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\obj\Debug\net10.0\TP_Modul9_103022400007.genruntimeconfig.cache
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\obj\Debug\net10.0\ref\TP_Modul9_103022400007.dll
+C:\Users\Erland\OneDrive\Documents\Kuliah stuff\Semester 4\KPL\Lab\CodeProject\TP_Modul9_103022400007\TP_Modul9_103022400007\bin\Debug\net10.0\covid_config.json
